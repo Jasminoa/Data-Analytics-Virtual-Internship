@@ -4,7 +4,7 @@
 
 The first phase of this internship focused on establishing a strong data foundation for analysis. The objective was to transform raw marketing datasets into reliable, analysis-ready data that could support reporting and decision-making.
 
-As the Data Analyst for Tech Datalytics Solutions, I was responsible for auditing data quality, cleaning inconsistencies, documenting the datasets, and performing exploratory analysis to understand overall campaign performance.
+As the Data Analyst for Savvy Datalytics Solutions, I was responsible for auditing data quality, cleaning inconsistencies, documenting the datasets, and performing exploratory analysis to understand overall campaign performance.
 
 ## Business Objective
 

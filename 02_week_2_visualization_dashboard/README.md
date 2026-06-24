@@ -8,7 +8,7 @@ This phase involved building a Marketing Performance Dashboard in Power BI, deve
 
 ## Business Objective
 
-Tech Datalytics Solutions required a dashboard that would help stakeholders understand marketing performance and support future budget allocation decisions.
+Savvy Datalytics Solutions required a dashboard that would help stakeholders understand marketing performance and support future budget allocation decisions.
 
 The client requested answers to the following questions:
 
