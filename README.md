@@ -161,7 +161,7 @@ With 2,246,443 total Q3 clicks and a 5.32% conversion rate, the data shows that 
 
 > **File:** `02_week_2_visualizati/dashboards/Marketing_Performance_Dashboard.pbix`
 >
-> Open in Power BI Desktop to interact with all 4 pages and 31 visuals. A PDF export is also available in the same folder.
+> Open in Power BI Desktop to interact with all 4 pages and 31 visuals.
 
 
 ## About the Analyst
